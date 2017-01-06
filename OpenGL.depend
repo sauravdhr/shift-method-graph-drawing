@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1472447596 source:d:\my l-4 t-2\sessionals\cse 410 graphics\setup opengl\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\my l-4 t-2\sessionals\cse 410 graphics\setup opengl\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1479672741 source:d:\my l-4 t-2\sessionals\cse 464 cg\offline 3\opengl\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<stack>
+	"point.h"
+	"edge.h"
+
+1392007564 d:\my l-4 t-2\sessionals\cse 464 cg\offline 3\opengl\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1479665593 d:\my l-4 t-2\sessionals\cse 464 cg\offline 3\opengl\point.h
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
+1479665872 d:\my l-4 t-2\sessionals\cse 464 cg\offline 3\opengl\edge.h
+	<iostream>
+	<vector>
+	"point.h"
+
+1482125361 source:d:\my l-4 t-2\sessionals\cse 464 cg\offline 4\grid drawing\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<stack>
+	"point.h"
+	"edge.h"
+
+1392007564 d:\my l-4 t-2\sessionals\cse 464 cg\offline 4\grid drawing\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1481753223 d:\my l-4 t-2\sessionals\cse 464 cg\offline 4\grid drawing\point.h
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
+1482097808 d:\my l-4 t-2\sessionals\cse 464 cg\offline 4\grid drawing\edge.h
+	<iostream>
+	<vector>
+	"point.h"
+
